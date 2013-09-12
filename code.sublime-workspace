@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"wp",
+				"wploop	wp-loop"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"templat",
+				"get_template"
+			],
+			[
+				"ph",
+				"php	php"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"monito",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp canc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"downl",
+				"SFTP: Download Folder"
+			],
+			[
+				"refre",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"mon",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"mo",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monit",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"monitor",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"upload",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"u",
+				"SFTP: Upload Folder"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"new fil",
+				"File: New View into File"
+			],
+			[
+				"uo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Commit history"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: wploop",
+				"Snippet: wp-loop"
+			],
+			[
+				"Snippet: wp",
+				"Snippet: wp-loop"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 212.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rsimmons/Desktop/Development/Freelance/iCodeThings/page.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/iCodeThings/header.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/iCodeThings/sftp-config.json",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377739566/iCodeThings/public_html/wp-content/themes/twentytwelve/mapsApi.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377739517/iCodeThings/public_html/wp-content/themes/twentytwelve/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377739849/iCodeThings/public_html/wp-content/themes/twentytwelve/page.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/sftp-config.json",
+		"/Users/rsimmons/Desktop/Development/Freelance/iCodeThings/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377739774/iCodeThings/public_html/wp-content/themes/twentytwelve/page.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377739126/iCodeThings/public_html/wp-content/themes/twentytwelve/author.php",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/iCodeThings",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/code.sublime-project",
+		"/Users/rsimmons/Desktop/Dezins/Diversified Design Group/Template Files/Foundation/index.php",
+		"/Users/rsimmons/Desktop/test.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/lab.php",
+		"/Users/rsimmons/Desktop/Dezins/Diversified Design Group/Template Files/Foundation/page.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/scss/custom.scss",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/css/custom.css",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/page.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/header.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/templates/news.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377637090/amkAnalytics/app/View/Reports/search.ctp",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/content-news.php",
+		"/Users/rsimmons/Desktop/Development/Freelance/Central/intro-text_content.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377620602/amkAnalytics/app/View/Reports/view.ctp",
+		"/Users/rsimmons/Desktop/logo_86.png",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377636708/amkAnalytics/app/webroot/img/logo-86.png",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377637845/amkAnalytics/app/webroot/js/scripts.js",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377635796/amkAnalytics/app/View/Pages/index.ctp",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377634827/amkAnalytics/app/View/Pages/rq50.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377638835/amkAnalytics/app/webroot/blog/wp-content/themes/amk/header.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377638630/amkAnalytics/app/webroot/blog/wp-content/themes/amk/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377637443/amkAnalytics/app/webroot/css/style.css",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377638798/amkAnalytics/app/webroot/blog/wp-content/themes/amk/header.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377636545/amkAnalytics/app/webroot/img/logo-86.png",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377636261/amkAnalytics/app/webroot/img/logo-86.png",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377617242/amkAnalytics/app/View/Elements/rqaq_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377619086/amkAnalytics/app/View/Pages/casestudies.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377619154/amkAnalytics/app/View/Pages/productscorpsample.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377621315/amkAnalytics/app/Config/core.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377622595/amkAnalytics/app/View/Pages/index.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377622831/amkAnalytics/app/webroot/css/style.css",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377623428/amkAnalytics/app/View/Elements/report_table.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377624132/amkAnalytics/app/View/Elements/compare_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377620126/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377624473/amkAnalytics/app/View/Reports/search.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377620524/amkAnalytics/app/View/Elements/rqaq_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377624444/amkAnalytics/app/View/Elements/search_autocomplete.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377621245/amkAnalytics/app/Config/database.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377621169/amkAnalytics/app/View/Pages/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377620149/amkAnalytics/app/View/Elements/rqaq_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377620454/amkAnalytics/app/View/Elements/include_scripts.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377614562/amkAnalytics/app/View/Users/register.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377615075/amkAnalytics/app/View/Pages/productscorpsample.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377615377/amkAnalytics/app/View/Pages/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377615578/amkAnalytics/app/View/Reports/purchase.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377615666/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616146/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616184/amkAnalytics/app/View/Elements/rqaq_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616302/amkAnalytics/app/View/Elements/report_table.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616731/amkAnalytics/app/View/Elements/report_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616750/amkAnalytics/app/View/Elements/optimal_investment_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377616899/amkAnalytics/app/View/Elements/rqaq_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377618769/amkAnalytics/app/View/Elements/compare_graphs.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377618855/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377617395/amkAnalytics/app/View/Elements/report_table.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377617574/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377617049/amkAnalytics/app/View/Reports/view.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377617013/amkAnalytics/app/View/Elements/include_scripts.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377554907/amkAnalytics/app/View/Pages/productsmngr.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377551920/amkAnalytics/app/View/Pages/products.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377551604/amkAnalytics/app/View/Pages/products.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550453/amkAnalytics/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550493/amkAnalytics/app/webroot/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550600/amkAnalytics/app/webroot/test.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550989/amkAnalytics/lib/Cake/Controller/Controller.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377551151/amkAnalytics/lib/Cake/View/Pages/home.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377551105/amkAnalytics/lib/Cake/View/Layouts/default.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550891/amkAnalytics/lib/Cake/Controller/PagesController.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550971/amkAnalytics/lib/Cake/Controller/AppController.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550683/amkAnalytics/app/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550643/amkAnalytics/app/webroot/.htaccess",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550260/amkAnalytics/lib/Cake/View/ThemeView.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550146/amkAnalytics/lib/Cake/View/Pages/home.ctp",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550111/amkAnalytics/app/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377550062/amkAnalytics/app/webroot/index.php",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/amkAnalytics",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/searchs.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/css/custom.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/scss/custom.scss",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377530815/chs/wp-content/themes/chs/woocommerce/content-chs.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377539095/chs/wp-content/themes/chs/search.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/page.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377531195/chs/wp-content/themes/chs/page.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/search.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/header.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/services.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/css/ie.css",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/checkout.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/checkout/form-checkout.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/cart/cart.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377536392/chs/wp-content/themes/chs/woocommerce/cart/totals.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/content-single-product.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/content-product.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/shop/wrapper-start.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/footer.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/loop/orderby.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377531297/chs/wp-content/themes/chs/woocommerce/shop/wrapper-start.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377532256/chs/wp-content/themes/chs/woocommerce/shop/breadcrumb.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377532437/chs/wp-content/themes/chs/woocommerce/shop/wrapper-start.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/shop/breadcrumb.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/single-product.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/functions.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/shop/wrapper-end.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/woocommerce/content-chs.php",
+		"/Users/rsimmons/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs-child/index.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377528774/chs/wp-content/themes/chs-child/index.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs-child/header.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377528940/chs/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/sublime-sftp-browse-1377529002/chs/wp-content/plugins/woocommerce/templates/content-single-product.php",
+		"/private/var/folders/tx/q246r1wj4rb4wg4nf2hmfgr80000gn/T/c2fca067-be34-4638-a4e6-c47a21a32635/singlesiteinstalls/Lakeurgentcare/masterpages/Master.master",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/index.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/map.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/single.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/tag.php",
+		"/Users/rsimmons/Desktop/Development/Projects/Concierge Health Services/_Production/chs/contact.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AMK Analytics",
+			"bank",
+			"blank",
+			"strength",
+			"blank",
+			"bank",
+			"strength",
+			"strength	",
+			"AMK Analytics",
+			"advanced cu",
+			"INVESTMENT",
+			"AMK Analytics",
+			"amk",
+			"purchase",
+			"amk",
+			"database",
+			"amk",
+			"view",
+			"cart-v",
+			"infp-top",
+			"get_",
+			"get	",
+			"get",
+			"/",
+			"menu",
+			"slider",
+			"register",
+			"content-block",
+			"thumb",
+			"font-fa",
+			"close",
+			"super+alt+.",
+			"close_tag",
+			"focus",
+			"password",
+			"database",
+			"caption"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"amkANALYTICS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 31.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 438.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"news",
+				"templates/news.php"
+			],
+			[
+				"content",
+				"intro-text_content.php"
+			],
+			[
+				"servi",
+				"templates/services.php"
+			],
+			[
+				"cus",
+				"scss/custom.scss"
+			],
+			[
+				"custom",
+				"css/custom.css"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"form-c",
+				"woocommerce/checkout/form-checkout.php"
+			],
+			[
+				"checkout",
+				"woocommerce/checkout.php"
+			],
+			[
+				"ser",
+				"services.php"
+			],
+			[
+				"ie",
+				"css/ie.css"
+			],
+			[
+				"sear",
+				"search.php"
+			],
+			[
+				"lab",
+				"lab.php"
+			],
+			[
+				"cart",
+				"woocommerce/cart/cart.php"
+			],
+			[
+				"form-ce",
+				"woocommerce/checkout/form-checkout.php"
+			],
+			[
+				"car",
+				"woocommerce/cart/cart.php"
+			],
+			[
+				"wrap",
+				"woocommerce/shop/wrapper-start.php"
+			],
+			[
+				"single",
+				"woocommerce/single-product.php"
+			],
+			[
+				"content-sing",
+				"woocommerce/content-single-product.php"
+			],
+			[
+				"woo",
+				"woocommerce/single-product.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"content-sin",
+				"woocommerce/content-single-product.php"
+			],
+			[
+				"woocomm",
+				"woocommerce/single-product.php"
+			],
+			[
+				"bread",
+				"woocommerce/shop/breadcrumb.php"
+			],
+			[
+				"brea",
+				"woocommerce/shop/breadcrumb.php"
+			],
+			[
+				"woocomend",
+				"woocommerce/shop/wrapper-end.php"
+			],
+			[
+				"woosingle",
+				"woocommerce/single-product.php"
+			],
+			[
+				"",
+				"woocommerce/content-chs.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"pag",
+				"page.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"arch",
+				"archive.php"
+			],
+			[
+				"cate",
+				"category.php"
+			],
+			[
+				"home",
+				"home.php"
+			],
+			[
+				"das",
+				"ch-admin/dashboard-options.php"
+			],
+			[
+				"contact",
+				"contact.php"
+			],
+			[
+				"map",
+				"map.php"
+			],
+			[
+				"ab",
+				"lab.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"main.min",
+				"js/min/main.min.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"fle",
+				"js/min/flexslider.min.js"
+			],
+			[
+				"fl",
+				"js/flexslider.js"
+			],
+			[
+				"flex",
+				"css/flexslider.css"
+			],
+			[
+				"main.mi",
+				"js/min/main.min.js"
+			],
+			[
+				"js",
+				"js/functions.js"
+			],
+			[
+				"scripts",
+				"ch-admin/footer-scripts.php"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"comment",
+				"comments.php"
+			],
+			[
+				"custom.",
+				"scss/custom.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}
